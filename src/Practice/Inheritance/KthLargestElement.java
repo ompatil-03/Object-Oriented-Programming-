@@ -1,6 +1,5 @@
-package Practice;
+package Practice.Inheritance;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class KthLargestElement

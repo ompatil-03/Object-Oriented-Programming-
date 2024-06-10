@@ -1,4 +1,4 @@
-package Practice;
+package Practice.Inheritance;
 
 import java.util.Scanner;
 
