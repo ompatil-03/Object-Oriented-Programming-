@@ -1,5 +1,6 @@
 package Encapsulation;
 
+import java.util.Random;
 import java.util.Scanner;
 
 class Students{
@@ -29,5 +30,6 @@ public class WriteOnly {
         String name =s.next();
         s1.setName(name);
         s1.info();
+   
     }
 }
